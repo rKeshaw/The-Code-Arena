@@ -1,4 +1,4 @@
-# The-Code-Arena
+# The Code Arena - Seasons of Code - (WnCC) 
 Welcome to The Code Arena - SOC for Competitive Programming !
 
 We're thrilled to Welcome you to the Code Arena .
