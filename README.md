@@ -16,18 +16,18 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 - You need to submit only the first set of the following questions in your corresponding folder. Also, your code should pass all the test cases present on either CSES or Codeforces.
 
 ## Questions to be submitted:
-1. [Missing Number](https://cses.fi/problemset/task/1083) (`w1_q1.cpp`) [[Solution](https://cses.fi/problemset/result/)]
-2. [Repetitions](https://cses.fi/problemset/task/1069) (`w1_q2.cpp`) [[Solution](https://cses.fi/problemset/result/)]
-3. [Coins](https://cses.fi/problemset/task/1617) (`w1_q3.cpp`) [[Solution](https://cses.fi/problemset/result/)]
-4. [Lucky Numbers](https://cses.fi/problemset/task/1090) (`w1_q4.cpp`) [[Solution](https://cses.fi/problemset/result/)]
-5. [Weird Algorithm](https://cses.fi/problemset/task/1068) (`w1_q5.cpp`) [[Solution](https://cses.fi/problemset/result/)]
+1. [Missing Number](https://cses.fi/problemset/task/1083) (`w1_q1.cpp`)
+2. [Repetitions](https://cses.fi/problemset/task/1069) (`w1_q2.cpp`) 
+3. [Coins](https://cses.fi/problemset/task/1617) (`w1_q3.cpp`) 
+4. [Lucky Numbers](https://cses.fi/problemset/task/1090) (`w1_q4.cpp`) 
+5. [Weird Algorithm](https://cses.fi/problemset/task/1068) (`w1_q5.cpp`) 
 
 ## Questions for your practice:
-1. [Increasing Array](https://cses.fi/problemset/task/1094) [[Solution](https://cses.fi/problemset/result/)]
-2. [Towers of Hanoi](https://cses.fi/problemset/task/2165) [[Solution](https://cses.fi/problemset/result/)]
-3. [Coin Piles](https://cses.fi/problemset/task/1754) [[Solution](https://cses.fi/problemset/result/)]
-4. [Walking Master](https://cses.fi/problemset/task/1753) [[Solution](https://cses.fi/problemset/result/)]
-5. [Two Knights](https://cses.fi/problemset/task/1072) [[Solution](https://cses.fi/problemset/result/)]
+1. [Increasing Array](https://cses.fi/problemset/task/1094) 
+2. [Towers of Hanoi](https://cses.fi/problemset/task/2165) 
+3. [Coin Piles](https://cses.fi/problemset/task/1754) 
+4. [Walking Master](https://cses.fi/problemset/task/1753) 
+5. [Two Knights](https://cses.fi/problemset/task/1072) 
 
 ---
 
