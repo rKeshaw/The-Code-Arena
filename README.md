@@ -6,7 +6,7 @@ You'll be solving these problems and uploading your solutions in your designated
 
 Let’s stay consistent, challenge ourselves, and level up together in the world of competitive programming!
 
-# Week 1 (26 May - 2 June)
+# Week 1 (21 May - 27 May)
 
 - Complete reading the first 4 chapters from [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
 - Create your accounts on [CSES](https://cses.fi/), [Codeforces](https://codeforces.com/), [Codechef](https://www.codechef.com/), and [Leetcode](https://leetcode.com/).
