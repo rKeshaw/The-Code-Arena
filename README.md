@@ -10,7 +10,8 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 
 - Go through [C++ sort](https://www.geeksforgeeks.org/sort-c-stl/) function.
 - Read Chapter 5 and Chapter 8 from this [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
-- Go through Chapters 4-5 and 8 from this [Guide to Competitive Programming](Resources/Guide_to_Competitive_Programming.pdf)
+- Go through Chapters 4-5 and 8 from this [Guide to Competitive Programming](Resources/Guide_to_Competitive_Programming.pdf).
+- Please read this [document]() for some common techniques.
 
 ## Questions to be submitted:
 
