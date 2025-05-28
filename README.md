@@ -6,6 +6,33 @@ You'll be solving these problems and uploading your solutions in your designated
 
 Let’s stay consistent, challenge ourselves, and level up together in the world of competitive programming!
 
+# Week 2 (28 May - 03 Jun)
+
+- Go through [C++ sort](https://www.geeksforgeeks.org/sort-c-stl/) function.
+- Read Chapter 5 and Chapter 8 from this [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
+
+## Questions to be submitted:
+
+1. [Playlist](w2_q1.cpp)
+2. [Sum of Two Values](w2_q2.cpp) (See both of them)
+3. [Sum of Three Values](w2_q3.cpp)
+4. [Sliding Window Maximum](w2_q4.cpp) (Check other leetcode solutions too)
+5. [Stick Lengths](w2_q5.cpp)
+
+## Questions for your practice
+
+1. [Min Max Sort](#)
+2. [2^Sort](#)
+3. [Longest K-good segment](#)
+4. [Nested Ranges Count](#)
+5. [Rooks Defenders](#)
+6. [Matryoshkas](#)
+7. [Playing in a casino](#)
+8. [Sum of four values](#)
+9. [Sliding Window Median](#)
+10. [Sliding Window Cost](#)
+11. [Fun Problem](#) (You can maybe read its tutorial)
+
 # Week 1 (21 May - 27 May)
 
 - Complete reading the first 4 chapters from [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
