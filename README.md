@@ -10,28 +10,28 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 
 - Go through [C++ sort](https://www.geeksforgeeks.org/sort-c-stl/) function.
 - Read Chapter 5 and Chapter 8 from this [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf).
+- 
 
 ## Questions to be submitted:
 
-1. [Playlist](https://cses.fi/problemset/task/1141)('w2_q1.cpp')
-2. [Sum of Two Values]('w2_q2.cpp')
-3. [Sum of Three Values]('w2_q3.cpp')
-4. [Sliding Window Maximum]('w2_q4.cpp')
-5. [Stick Lengths]('w2_q5.cpp')
+1. [Playlist](https://cses.fi/problemset/task/1141)(`w2_q1.cpp`)
+2. [Sum of Two Values](https://cses.fi/problemset/task/1640)(`w2_q2.cpp`)
+3. [Sum of Three Values](https://cses.fi/problemset/task/1641)(`w2_q3.cpp`)
+4. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)(`w2_q4.cpp`)
+5. [Stick Lengths](https://cses.fi/problemset/task/1074)(`w2_q5.cpp`)
 
 ## Questions for your practice
 
-1. [Min Max Sort](#)
-2. [2^Sort](#)
-3. [Longest K-good segment](#)
-4. [Nested Ranges Count](#)
-5. [Rooks Defenders](#)
-6. [Matryoshkas](#)
-7. [Playing in a casino](#)
-8. [Sum of four values](#)
-9. [Sliding Window Median](#)
-10. [Sliding Window Cost](#)
-11. [Fun Problem](#) (You can maybe read its tutorial)
+1. [Min Max Sort](https://codeforces.com/problemset/problem/1792/C)
+2. [2^Sort](https://codeforces.com/problemset/problem/1692/G)
+3. [Longest K-good segment](https://codeforces.com/contest/616/problem/D)
+4. [Nested Ranges Count](https://cses.fi/problemset/task/2169#:~:text=CSES%20%2D%20Nested%20Ranges%20Count&text=Given%20n%20ranges%2C%20your%20task,c%20and%20d%E2%89%A4b.&text=The%20first%20input%20line%20has,n%3A%20the%20number%20of%20ranges.)
+5. [Rooks Defenders](https://codeforces.com/problemset/problem/1679/C)
+6. [Matryoshkas](https://codeforces.com/problemset/problem/1790/D)
+7. [Playing in a casino](https://codeforces.com/problemset/problem/1808/B)
+8. [Sum of four values](https://cses.fi/problemset/task/1642)
+9. [Sliding Window Median](https://cses.fi/problemset/task/1076)
+10. [Sliding Window Cost](https://cses.fi/problemset/task/1077)
 
 # Week 1 (21 May - 27 May)
 
