@@ -13,11 +13,11 @@ Let’s stay consistent, challenge ourselves, and level up together in the world
 
 ## Questions to be submitted:
 
-1. [Playlist](w2_q1.cpp)
-2. [Sum of Two Values](w2_q2.cpp) (See both of them)
-3. [Sum of Three Values](w2_q3.cpp)
-4. [Sliding Window Maximum](w2_q4.cpp) (Check other leetcode solutions too)
-5. [Stick Lengths](w2_q5.cpp)
+1. [Playlist](https://cses.fi/problemset/task/1141)('w2_q1.cpp')
+2. [Sum of Two Values]('w2_q2.cpp')
+3. [Sum of Three Values]('w2_q3.cpp')
+4. [Sliding Window Maximum]('w2_q4.cpp')
+5. [Stick Lengths]('w2_q5.cpp')
 
 ## Questions for your practice
 
